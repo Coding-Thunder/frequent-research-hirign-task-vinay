@@ -1,0 +1,15 @@
+.home {
+    width: 100vw;
+    height: 100vh;
+    padding: 20px;
+    display: flex;
+    justify-content: center;
+}
+
+.home__form {
+    width: 40%;
+    background: white;
+    border-radius: 12px;
+    padding: 20px;
+    height: fit-content;
+}

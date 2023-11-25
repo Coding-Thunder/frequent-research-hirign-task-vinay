@@ -1,0 +1,14 @@
+.card {
+    background-color: white;
+    border-radius: 12px;
+    padding: 10px;
+    height: 200px;
+    width: fit-content;
+}
+
+.users {
+    display: flex;
+    gap: 20px;    
+    width: 100vw;
+    height: 100vh;
+}
